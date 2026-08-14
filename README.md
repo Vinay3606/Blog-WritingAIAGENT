@@ -27,7 +27,7 @@ An AI-powered **Multi-Agent Blog Writing System** built using **LangGraph**, **L
 - Tavily Search
 - Streamlit
 - Markdown
-- Arxiv Research APIs
+- Deepgram API for Images 
 
 ---
 
