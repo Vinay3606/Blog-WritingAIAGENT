@@ -187,4 +187,3 @@ streamlit run app.py
 
 ---
 
-## ⭐ If you found this project useful, don't forget to Star the repository!
