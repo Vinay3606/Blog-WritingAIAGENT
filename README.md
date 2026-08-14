@@ -183,7 +183,7 @@ streamlit run app.py
 **Vinay Choudhary**
 
 - GitHub: https://github.com/Vinay3606
-- LinkedIn: https://linkedin.com/in/vinaychoudhary
+- LinkedIn: https://www.linkedin.com/in/vinay-choudhary-3a6286288
 
 ---
 
